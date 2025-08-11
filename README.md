@@ -8,5 +8,5 @@ My personal collection of LeetCode solutions, notes, and thought.
 
 过去有使用过Python、SQL，不过应付了事，学艺不精。
 
-计划以python完成LeetCode热题100，完成高频SQL题目。
+计划以python完成LeetCode热题100，完成高频SQL题目。顺便熟悉Github使用方法。
 自勉。
