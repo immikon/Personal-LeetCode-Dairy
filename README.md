@@ -2,7 +2,7 @@
 
 > My personal collection of LeetCode solutions, notes, and thought. 
 
-**Background**
+### Intro
 
 ***11/8/2025***
 
